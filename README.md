@@ -1,9 +1,10 @@
-# Bootstrap 4 sitebuilding projekt
+# SCSS sitebuilding projekt
+A letölthető fájlok a leírás végén találhatóak. A desktop PDF-fájl fel van címkézve a feladatok szövegével.
 
-A letölthető fájlok a leírás végén találhatóak.   
-A desktop PDF-fájl fel van címkézve a feladatok szövegével.
+Készítsd el a desktop.jpeg/mobile.jpeg képen látható reszponzív honlapot SCSS segítségével!
+CSS-keretrendszer használata nem megengedett! (Kivéve a rácsrendszernél a Bootstrap.)
 
-Készítsd el a desktop.jpeg/mobile.jpeg képen látható reszponzív honlapot Bootstrap 4 segítségével!   
+### A feladat ugyanaz, mint a Bootstrap 4 tanfolyam projektjénél, csak a megvalósítási módja más.
 
 Összesen 2 nézetünk van. Large breakpoint (992px) felett a desktop, alatta a mobil view érvényesüljön!    
 A dizájnhoz használt képeket megtalálod az img mappában.   
